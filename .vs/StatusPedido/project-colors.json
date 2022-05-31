@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e4210e32-abee-46af-b7a7-191371a775f0": {
+      "ProjectGuid": "e4210e32-abee-46af-b7a7-191371a775f0",
+      "DisplayName": "StatusPedido",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
